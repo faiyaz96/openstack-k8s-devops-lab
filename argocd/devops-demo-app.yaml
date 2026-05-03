@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:faiyaz96/openstack-k8s-devops-lab.git
+    repoURL: 'git@github.com:faiyaz96/openstack-k8s-devops-lab.git'
     targetRevision: main
     path: helm/devops-demo-app
   destination:
